@@ -1,0 +1,19 @@
+{
+  "name": "production-backend-chai",
+  "version": "1.0.0",
+  "description": "a backend learning at production level with project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javscript",
+    "nodejs",
+    "expressjs",
+    "chai",
+    "coffee",
+    "backend"
+  ],
+  "author": "dhruti thakkar",
+  "license": "ISC"
+}
