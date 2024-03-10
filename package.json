@@ -16,8 +16,5 @@
     "backend"
   ],
   "author": "dhruti thakkar",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.0"
-  }
+  "license": "ISC"
 }
